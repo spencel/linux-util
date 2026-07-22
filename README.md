@@ -1,2 +1,2 @@
-# unix-util
-Scripts for Unix based operating systems.
+# Linux Utilities
+Scripts for the Linux operating system and various distributions.
